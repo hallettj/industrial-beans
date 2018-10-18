@@ -1,12 +1,11 @@
 .PHONY: all clean
 
-src_files := $(shell find src/)
-
-all: industry.zip
+all: dist/craft_kelp_blocks.zip
 
 clean:
-	rm industry.zip
+	rm -rf dist
 
-industry.zip: $(src_files)
-	rm industry.zip
-	cd src && zip -r ../industry.zip .
+dist/craft_kelp_blocks.zip: $(shell find src/craft_kelp_blocks/)
+	mkdir -p dist
+	rm -f dist/craft_kelp_blocks.zip
+	cd src/craft_kelp_blocks && zip -r ../../dist/craft_kelp_blocks.zip .

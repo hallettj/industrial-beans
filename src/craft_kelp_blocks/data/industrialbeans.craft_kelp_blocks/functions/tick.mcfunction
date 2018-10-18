@@ -1,0 +1,4 @@
+function industrialbeans.craft_kelp_blocks:tag_dispensed_items
+function industrialbeans.craft_kelp_blocks:craft_kelp_blocks
+function industrialbeans.craft_kelp_blocks:craft_hay_bales
+function industrialbeans.craft_kelp_blocks:untag_dispensed_items
