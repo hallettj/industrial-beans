@@ -25,6 +25,8 @@ One data pack has been implemented so far:
 
 ### Automatically Craft dried kelp blocks and hay bales
 
+[[Download v1.0.0]](https://github.com/hallettj/industrial-beans/releases/download/v1.0.0/craft_kelp_blocks.zip)
+
 Drop nine pieces of dried kelp and dispense a string to produce a dried kelp
 block. The kelp may be dropped by a dropper, a water stream, or whatever
 mechanism you can imagine. This also works to make hay bales from wheat!
