@@ -42,6 +42,10 @@ the nine pieces of dried kelp.
 Tip: try using a binary counter to trigger a dispenser once for every nine
 times a dropper is triggered.
 
+[![Example of a machine that automatically creates dried kelp blocks](https://user-images.githubusercontent.com/9622/47237219-62c95f00-d3ac-11e8-9680-d0505642aeb8.gif)](http://www.youtube.com/watch?v=o5Qwx6Y6xeY "Automatic kelp baling machine in Minecraft")
+
+(Click on the image to see the full video.)
+
 ## Planned data packs
 
 More packs may be implemented in the future.
